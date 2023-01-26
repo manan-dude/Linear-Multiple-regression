@@ -6,3 +6,9 @@
 
 # Python Pickle
 ![500x500](https://www.gkindex.com/python-advanced/images/python-with-statement.jpg?ezimgfmt=rs:366x186/rscb1/ngcb1/notWebP)
+
+# DummyVariables
+![](https://miro.medium.com/max/862/1*GlKVmFiao1DUFaxxu6Zucw.png)
+
+# train_test_split
+![](https://i.stack.imgur.com/4fxtD.png)
